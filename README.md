@@ -1,0 +1,2 @@
+# rnn_text_generation
+sexozavr/text_generation_using_rnn
